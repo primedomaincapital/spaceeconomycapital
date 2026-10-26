@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://spaceeconomycapital.com/sitemap.xml
+
+
+
